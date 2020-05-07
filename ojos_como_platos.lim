@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-340" posy="-200" trans="100">Diapositiva17.PNG</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva1.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva2.PNG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva3.PNG</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva4.PNG</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva5.PNG</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva6.PNG</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva7.PNG</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva8.PNG</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">Diapositiva9.PNG</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>27</tipo>
+              <cabeceira>Lee cada lámina y fijate bien en los dibujos y el significado</cabeceira>
+              <evalua  crt="1" icrt="0">1</evalua>
+              <imaxe>Diapositiva14.PNG</imaxe>
+              <etiqueta>Diapositiva15.PNG</etiqueta>
+              <etiqueta>Diapositiva16.PNG</etiqueta>
+              <etiqueta>Diapositiva17.PNG</etiqueta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <evalua  crt="1" icrt="0">1</evalua>
+              <imaxe posx="0" posy="0">Diapositiva18.PNG</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>14</tipo>
+              <cabeceira>¿Qué DIBUJO SIGNIFICA Ponerse los ojos como platos?</cabeceira>
+              <evalua  crt="1" icrt="0">1</evalua>
+              <peza imaxe="mariposa.png" texto="" son="">lo_mismo.png</peza>
+              <peza imaxe="ninno_plato.png" texto="" son="">no_es.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <cabeceira>“Ahora vamos a ver qué situaciones pueden hacer que pongamos los ojos como platos”</cabeceira>
+              <evalua  crt="1" icrt="0">1</evalua>
+              <imaxe>arcoiris.png</imaxe>
+              <texto>1. Lee cada frase y piensa en qué situaciones tú pondrías los ojos como platos, o sea, ¡¡ super abiertos!! </texto>
+              <resp texto="" valor="1">El otro día vi un arcoíris chulísimo.</resp>
+              <resp texto="" valor="0">Vi un coche que cruzaba la carretera.</resp>
+              <resp texto="" valor="0">Mi madre me preparó un plato de macarrones que estaba buenísimo. </resp>
+              <resp texto="" valor="1">Un rayo cayó y rompió un árbol.</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <evalua  crt="1" icrt="0">1</evalua>
+              <imaxe>tarta.png</imaxe>
+              <texto>“Ahora vamos a ver qué situaciones pueden hacer que pongamos los ojos como platos”
+1. Lee cada frase y piensa en qué situaciones tú pondrías los ojos como platos, o sea, ¡¡ super abiertos!! 
+</texto>
+              <resp texto="" valor="1">Mis amigos me han preparado una tarta por mi cumpleaños.</resp>
+              <resp texto="" valor="0">Me asomo a la ventana y veo que está lloviendo.</resp>
+              <resp texto="" valor="1"> ¡Ayer vi una puesta de sol preciosa!</resp>
+              <resp texto="" valor="0">Me pongo pijama para ir a la cama.</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>10</tipo>
+              <cabeceira>“Se me ponen los ojos como platos cuando….”:</cabeceira>
+              <pe>Responde Sí o No. Respeta mayúsculas y tilde.</pe>
+              <evalua  crt="1" icrt="0">1</evalua>
+              <imaxe>mariposa.png</imaxe>
+              <pregunta res="No">1. Mis profesores me riñen en el colegio.</pregunta>
+              <pregunta res="No">2. Un amigo se ríe de mí.</pregunta>
+              <pregunta res="Sí">3. Veo algo que me sorprende, que me gusta mucho , que me asombra.</pregunta>
+              <pregunta res="No">4. Tengo mucha hambre. .</pregunta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>7</tipo>
+              <cabeceira>Arrastra a la caja correcta</cabeceira>
+              <evalua  crt="1" icrt="0">1</evalua>
+              <fondocaixa1 trans="100">no_ess.png</fondocaixa1>
+              <fondocaixa2 trans="100">bravo.png</fondocaixa2>
+              <caixa1>No tiene ojos como platos</caixa1>
+              <caixa2>Sí, tiene ojos como platos</caixa2>
+              <mini caixa="1">melancolica.png</mini>
+              <mini caixa="1">triste.png</mini>
+              <mini caixa="2">asombro.png</mini>
+              <mini caixa="2">ojos_abiertos.png</mini>
+              <mini caixa="1">rico.png</mini>
+              <mini caixa="1">risa.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+    </libro>
+</lim>
